@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "properbagpacks:item/backpack_body",
+    "layer1": "properbagpacks:item/backpack_trim_iron"
+  }
+}

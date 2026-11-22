@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "GUG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "U": {
+      "item": "properbagpacks:stack_upgrade_1"
+    }
+  },
+  "result": {
+    "id": "properbagpacks:stack_upgrade_2",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "itemGroup.properbagpacks.main": "Proper Bag Packs",
+  "key.properbagpacks.open": "Open Worn Backpack",
+  "tooltip.properbagpacks.slots": "%s slots, %s upgrade slots",
+  "tooltip.properbagpacks.stack_multiplier": "Stack size x%s",
+  "tooltip.properbagpacks.feeder": "Eats food automatically when you are hungry",
+  "item.properbagpacks.auto_feeder_upgrade": "Auto Feeder Upgrade",
+  "item.properbagpacks.leather_backpack": "Leather Backpack",
+  "item.properbagpacks.copper_backpack": "Copper Backpack",
+  "item.properbagpacks.iron_backpack": "Iron Backpack",
+  "item.properbagpacks.gold_backpack": "Gold Backpack",
+  "item.properbagpacks.diamond_backpack": "Diamond Backpack",
+  "item.properbagpacks.netherite_backpack": "Netherite Backpack",
+  "item.properbagpacks.stack_upgrade_1": "Stack Upgrade (x2)",
+  "item.properbagpacks.stack_upgrade_2": "Stack Upgrade (x4)",
+  "item.properbagpacks.stack_upgrade_3": "Stack Upgrade (x8)",
+  "item.properbagpacks.stack_upgrade_4": "Stack Upgrade (x16)"
+}

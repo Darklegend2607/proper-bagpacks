@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AIA",
+    "ICI",
+    "AIA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:apple"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "id": "properbagpacks:auto_feeder_upgrade",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NNN",
+    "NUN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "U": {
+      "item": "properbagpacks:stack_upgrade_3"
+    }
+  },
+  "result": {
+    "id": "properbagpacks:stack_upgrade_4",
+    "count": 1
+  }
+}

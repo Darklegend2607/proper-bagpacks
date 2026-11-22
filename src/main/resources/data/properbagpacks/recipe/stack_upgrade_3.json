@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DUD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "U": {
+      "item": "properbagpacks:stack_upgrade_2"
+    }
+  },
+  "result": {
+    "id": "properbagpacks:stack_upgrade_3",
+    "count": 1
+  }
+}
