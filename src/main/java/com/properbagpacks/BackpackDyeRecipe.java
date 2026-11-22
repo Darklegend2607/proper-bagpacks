@@ -23,7 +23,7 @@ public class BackpackDyeRecipe extends SpecialCraftingRecipe {
     public boolean matches(CraftingRecipeInput input, World world) {
         int backpacks = 0;
         int dyes = 0;
-        for (int i = 0; i < input.size(); i++) {
+        for (int i = 0; i < input.getSize(); i++) {
             ItemStack s = input.getStackInSlot(i);
             if (s.isEmpty()) continue;
             if (s.getItem() instanceof BackpackItem) backpacks++;
@@ -37,7 +37,7 @@ public class BackpackDyeRecipe extends SpecialCraftingRecipe {
     public ItemStack craft(CraftingRecipeInput input, RegistryWrapper.WrapperLookup lookup) {
         ItemStack backpack = ItemStack.EMPTY;
         List<DyeItem> dyes = new ArrayList<>();
-        for (int i = 0; i < input.size(); i++) {
+        for (int i = 0; i < input.getSize(); i++) {
             ItemStack s = input.getStackInSlot(i);
             if (s.getItem() instanceof BackpackItem) backpack = s;
             else if (s.getItem() instanceof DyeItem dye) dyes.add(dye);
